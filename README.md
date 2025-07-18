@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=YEWON's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
-## Hi there 👋 ![visitors](https://komarev.com/ghpvc/?username=your-github-id&label=Visitors&style=flat&color=0e75b6)
-
+## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syw1236&layout=compact&theme=default)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=it1236)](https://solved.ac/profile/it1236)
 
 ### 🛠️ Stack
