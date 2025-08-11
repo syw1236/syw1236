@@ -27,6 +27,12 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" />
 </p>
 
+### 📚 Experience
+
+| 기간 | 기관 | 직책 |
+|------|------|------|
+| 2023.01.02 ~ 2023.12.31 | 인텔리전트 시스템SW 연구실 | 학부 연구생 |
+
 ### 🏆 Awards
 
 - [2025.02.21] 한성대학교 공로상
